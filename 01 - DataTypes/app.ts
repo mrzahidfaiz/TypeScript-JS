@@ -20,3 +20,5 @@ function display(){
 button.addEventListener('click', display ) 
 
 // Result is Concat in 1  + 2 = 12
+
+
